@@ -40,4 +40,4 @@ Simple Interest = ₹1,000
 
 ## Author
 
-Your Name
+Atiksh
